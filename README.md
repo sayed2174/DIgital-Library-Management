@@ -37,8 +37,8 @@ This file contains methods to handle all operations related to book management, 
 Defines the **Book** class and its attributes such as:
 - `title`
 - `author`
-- `ISBN`
-- `category`
+- `id`
+- `available status`
 - Getters and setters for book properties
 
 ### 3. `LibraryManagement.java`
