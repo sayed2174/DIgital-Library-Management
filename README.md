@@ -51,7 +51,7 @@ Contains the **main method**, which starts program execution and provides a menu
 ## How to Run the Project
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/DigitalLibraryBookManagement.git
+   git clone https://github.com/sayed2174/DIgital-Library-Management.git
    ```
 2. **Open the Project in Eclipse.**
 3. **Compile and Run `LibraryManagement.java`.**
@@ -62,10 +62,7 @@ Contains the **main method**, which starts program execution and provides a menu
 - Add a database integration for persistent storage.
 - Implement user authentication for secure access.
 
-## License
-This project is open-source and available under the **MIT License**.
-
 ---
-**Author:** Your Name  
-**GitHub:** [Your Profile](https://github.com/yourusername)
+**Author:** Sayed Mohammed  
+**GitHub:** [Your Profile](https://github.com/sayed2174)
 
